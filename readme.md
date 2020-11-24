@@ -4,7 +4,7 @@
 
 author: [IranDargah.com](https://irandargah.com)
 
-لینک دانلود آخرین نسخه: [دانلود](https://github.com/irandargah/woocommerce/releases/latest)
+لینک دانلود آخرین نسخه: [دانلود](https://github.com/irandargah/opencart1.5/releases/latest)
 
 
 </div>
